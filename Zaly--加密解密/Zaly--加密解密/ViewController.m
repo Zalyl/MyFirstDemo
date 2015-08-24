@@ -4,7 +4,7 @@
 //
 //  Created by 张玉 on 15/8/24.
 //  Copyright (c) 2015年 ZY. All rights reserved.
-//..
+//....
 
 #import "ViewController.h"
 #import "CryptorTools.h"
